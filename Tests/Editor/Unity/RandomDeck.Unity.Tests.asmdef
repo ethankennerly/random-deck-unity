@@ -1,0 +1,19 @@
+{
+    "name": "RandomDeck.Unity.Tests",
+    "rootNamespace": "",
+    "references": [
+        "RandomDeck.POCO",
+        "RandomDeck.Unity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

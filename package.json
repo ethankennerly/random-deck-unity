@@ -1,0 +1,10 @@
+{
+  "name": "com.ethankennerly.randomdeck",
+  "displayName": "Random Deck",
+  "version": "0.1.0",
+  "unity": "6.3",
+  "description": "Randomness without replacement. Draw from a shuffled deck instead of rolling dice to reduce frustrating streaks.",
+  "author": "Ethan Kennerly",
+  "keywords": ["random", "deck", "shuffle", "probability"],
+  "dependencies": {}
+}
